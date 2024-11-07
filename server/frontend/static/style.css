@@ -124,3 +124,19 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contact-container {
+    border-radius: 10px;
+    border: 2px solid black;
+    height:auto;
+    min-height: 500px;
+    width:60%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.contact-title {
+    font-weight: bold;
+    font-size: large;
+}
